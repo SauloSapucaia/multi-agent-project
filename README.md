@@ -12,4 +12,8 @@ Instruções básicas:
 1. Instale Python 3.10+
 2. Crie um ambiente virtual: python -m venv .venv
 3. Ative e instale dependências: .\.venv\Scripts\activate ; pip install -r requirements.txt
+<<<<<<< HEAD
 4. Edite e execute runner: python runner.py
+=======
+4. Edite e execute runner: python runner.py
+>>>>>>> 56fb29381052e068215435c2da9dc1bae54cb32b
